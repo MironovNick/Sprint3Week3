@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/Sprint3Week3/static/css/main.e66ab7c7.css",
-    "main.js": "/Sprint3Week3/static/js/main.7db66342.js",
+    "main.css": "/Sprint3Week3/static/css/main.cdab448b.css",
+    "main.js": "/Sprint3Week3/static/js/main.1548a75d.js",
     "static/js/787.66cb4309.chunk.js": "/Sprint3Week3/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Sprint3Week3/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/200.svg": "/Sprint3Week3/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
+    "static/media/404.svg": "/Sprint3Week3/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/Sprint3Week3/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/editIcon.svg": "/Sprint3Week3/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
+    "static/media/checked.svg": "/Sprint3Week3/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Sprint3Week3/index.html",
-    "main.e66ab7c7.css.map": "/Sprint3Week3/static/css/main.e66ab7c7.css.map",
-    "main.7db66342.js.map": "/Sprint3Week3/static/js/main.7db66342.js.map",
+    "static/media/burger.svg": "/Sprint3Week3/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.cdab448b.css.map": "/Sprint3Week3/static/css/main.cdab448b.css.map",
+    "main.1548a75d.js.map": "/Sprint3Week3/static/js/main.1548a75d.js.map",
     "787.66cb4309.chunk.js.map": "/Sprint3Week3/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e66ab7c7.css",
-    "static/js/main.7db66342.js"
+    "static/css/main.cdab448b.css",
+    "static/js/main.1548a75d.js"
   ]
 }
